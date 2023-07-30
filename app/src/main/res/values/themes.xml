@@ -2,4 +2,7 @@
 <resources>
 
     <style name="Theme.OfelosKetoRecipies" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <item name="colorPrimary" type="color">@color/Ruby </item>
+    <item name="colorSecondary" type="color">@color/Gold</item>
 </resources>
